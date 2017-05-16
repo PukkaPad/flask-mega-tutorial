@@ -1,0 +1,11 @@
+/static
+*.DS_Store
+*.pyc
+*~
+*.db
+.Python
+__pycache__
+/microblog/flask
+config.py
+*.sublime-workspace
+*.sublime-project
